@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TimeSheet</string>
+
+    <!-- Main Navigation -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">omniIT GmbH</string>
+    <string name="nav_header_subtitle">sales@omniit.de</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- Main menu -->
+    <string name="action_settings">Settings</string>
+
+    <!-- Timer buttons -->
+    <string name="timer_title">Timer (Started at %s)</string>
+    <string name="timer_default">00:00</string>
+    <string name="timer_start">Start</string>
+    <string name="timer_stop">Stop</string>
+    <string name="timer_pause">Pause</string>
+    <string name="timer_continue">Continue</string>
+
+</resources>

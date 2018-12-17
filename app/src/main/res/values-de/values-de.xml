@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Zeiterfassung</string>
+
+    <!-- Main Navigation -->
+    <string name="navigation_drawer_open">Öffne navigation drawer</string>
+    <string name="navigation_drawer_close">Schließe navigation drawer</string>
+    <string name="nav_header_title">omniIT GmbH</string>
+    <string name="nav_header_subtitle">sales@omniit.de</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!-- Main menu -->
+    <string name="action_settings">Einstellungen</string>
+
+    <!-- Timer buttons -->
+    <string name="timer_title">Zeiterfassung (gestartet um %s)</string>
+    <string name="timer_default">00:00</string>
+    <string name="timer_start">Start</string>
+    <string name="timer_stop">Stop</string>
+    <string name="timer_pause">Pause</string>
+    <string name="timer_continue">Fortsetzen</string>
+</resources>
